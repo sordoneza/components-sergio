@@ -22,8 +22,8 @@ export const mediumButton = () => (
   </Button>
 );
 
-export const underlineButton = () => (
-  <Button underline onClick={action("button-click")}>
-    Click aqui
-  </Button>
-);
+// export const underlineButton = () => (
+//   <Button underline onClick={action("button-click")}>
+//     Click aqui
+//   </Button>
+// );
