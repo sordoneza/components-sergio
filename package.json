@@ -1,6 +1,6 @@
 {
   "name": "components-sergio",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "components-sergio React component",
   "main": "lib/index.js",
   "module": "es/index.js",
